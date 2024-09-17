@@ -18,7 +18,7 @@ jobs:
         node-version: [20.x]
 
     steps:
-    - name: Checkout Repository
+    - name: Checkout repository
       uses: actions/checkout@v3
 
     - name: Set Up Node.js
