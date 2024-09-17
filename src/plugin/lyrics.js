@@ -70,7 +70,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
                   text: lyrics
                 }),
                 footer: proto.Message.InteractiveMessage.Footer.create({
-                  text: "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴇᴛʜɪx-ᴍᴅ*"
+                  text: "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ MIDOBOT*"
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
                   title: "",
